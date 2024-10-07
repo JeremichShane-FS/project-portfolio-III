@@ -10,7 +10,7 @@ Ensure you have the following software and tools installed before proceeding:
 - npm (version 10.X.X or higher) 📦
 - More to be added ➕
 
-## Getting Started 🛠️
+## 🛠️ Getting Started
 
 Follow these steps to set up the project locally:
 
